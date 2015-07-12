@@ -1,5 +1,5 @@
 # gulp-handlebars-extended [![Build Status](https://travis-ci.org/sandcastle/gulp-handlebars-extended.svg)](https://travis-ci.org/sandcastle/gulp-handlebars-extended)
-> handlebars-extended plugin for gulp
+> [handlebars-extended](https://github.com/sandcastle/handlebars-extended) plugin for gulp
 
 ## Usage
 
