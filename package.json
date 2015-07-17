@@ -1,6 +1,6 @@
 {
   "name": "gulp-handlebars-extended",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Gulp support for the handlebars-extended lib.",
   "main": "index.js",
   "scripts": {
