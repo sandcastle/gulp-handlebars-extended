@@ -16,6 +16,11 @@ module.exports = function(data, opts) {
 
   return through2.obj(function(file, enc, callback) {
       
+    data = data || {};
+    if (file.data) {
+      data = file.data;
+    } 
+      
     if (file.isNull()) {
       return callback(null, file);
     }
